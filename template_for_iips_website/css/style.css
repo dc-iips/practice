@@ -810,6 +810,9 @@ body {
 	.technology h4 {
 		font-size: 20px;
 	}
+	.container div{
+		color: green;
+	}
 }
 @media only screen and (max-width: 640px){
 	.company_ad{
@@ -883,4 +886,7 @@ body {
 	.blog_list ul li:nth-child(3){
 		margin-left: 0;
 	}
+}
+.red{
+	color:#FF5454;
 }
