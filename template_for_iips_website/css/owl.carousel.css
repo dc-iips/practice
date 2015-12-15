@@ -487,3 +487,18 @@
 		font-size: 12px;
 	}
 }
+.panel-default {
+  border-color: #3B3B3B;
+}
+.panel-default > .panel-heading {
+  color: white;
+  background-color: #3B3B3B;
+  border-color: #3B3B3B;
+  border-radius: 0px;
+}
+.panel-default > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #ddd;
+}
+.panel-default > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #ddd;
+}
