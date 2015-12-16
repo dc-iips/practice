@@ -93,15 +93,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 				<!----start-img-cursual---->
 				<div class="col-md-3" style="padding-top:20px;">
-					<div class="panel panel-default" style="border-radius:0px;">
-  						<div class="panel-heading">
-    						<h3 class="panel-title">Twitter Box</h3>
-  						</div>
-  						<div class="panel-body">
-    						<br>
-    						Panel Content<br>
-  						</div>
-					</div>
+            <a class="twitter-timeline"  href="https://twitter.com/rajatgarg94" data-widget-id="677089884390166528">Tweets by @rajatgarg94</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
 				</div>
 				<div class="col-md-6">
 					<div id="owl-demo" class="owl-carousel text-center">	
